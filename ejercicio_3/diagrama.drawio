@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="LmUSlJlzVgLUX9B3eRbV" name="Page-1">
-        <mxGraphModel dx="662" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="902" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -13,7 +13,7 @@
                         <mxPoint x="400" y="130" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="4" value="Generar número_secreto&lt;div&gt;entre 1 y&amp;nbsp; 100&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+                <mxCell id="4" value="selecciona un numero&amp;nbsp;&lt;div&gt;(1, 100)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
                     <mxGeometry x="310" y="130" width="180" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
